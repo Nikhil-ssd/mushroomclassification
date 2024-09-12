@@ -62,6 +62,20 @@ https://archive.ics.uci.edu/dataset/73/mushroom
 
 This data set includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family (pp. 500-525).  Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended.  This latter class was combined with the poisonous one.  The Guide clearly states that there is no simple rule for determining the edibility of a mushroom; no rule like ''leaflets three, let it be'' for Poisonous Oak and Ivy.
 
+#### Instructions on how to run this project code on your system
+
+Step 1 : Download this project repository as a zip file.
+Step 2 : Unzip the folder to your desired location
+Step 3 : Go to the Anaconda website and download the installer for your operating system (Windows, macOS, or Linux) & launch it.
+Step 4 : Launch Jupyter Notebook Interface from Anaconda Navigator after which opens in your default browser.
+Step 5 : Navigate to this project folder.
+Step 6 : When inside navigate to mushroomclassification > notebooks > mushroom-classification.pynb
+Step 7 : Open the mushroom-classification.pynb
+Step 8 : Replace the filepaths to store the data, models and visuals in the directory where you have unzipped the project folder
+Step 9 : Save and Run the mushroom-classification.pynb file.
+Step 10 : Wait for the file to complete executing the program and then check the output along with the contents in the data, models and visuals directories.
+
+
 #### Instructions on how to run your code and reproduce the results
 
 Step 1 : Go to the Anaconda website and download the installer for your operating system (Windows, macOS, or Linux) & launch it.
